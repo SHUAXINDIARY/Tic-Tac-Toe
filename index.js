@@ -89,7 +89,9 @@ const feature = {
         let rowSum = 0;
         // 保存列的值
         let colSum = 0;
+        // 保存对角线1的值
         let diagonalOne = 0;
+        // 保存对角线2的值
         let diagonalTwo = 0;
 
         /**
