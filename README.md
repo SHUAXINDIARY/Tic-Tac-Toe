@@ -4,6 +4,11 @@
 
 # [在线演示](https://shuaxindiary.github.io/Tic-Tac-Toe/)
 
+# 更新
+
+1.2019-8-12更新加入人机模式
+
+
 # 总结
 
 ```javascript
